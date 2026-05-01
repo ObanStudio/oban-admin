@@ -1,0 +1,10 @@
+{
+  "project_info": { "project_number": "27134375623", "project_id": "noobi01", "storage_bucket": "noobi01.firebasestorage.app" },
+  "client": [
+    {
+      "client_info": { "mobilesdk_app_id": "1:27134375623:android:731da1780d7296986d70e2", "android_client_info": { "package_name": "com.obanstudio.admin" } },
+      "api_key": [{ "current_key": "AIzaSyCpv6SRGUKWHeK4b_yL1WAqGRgqIrZYz-s" }]
+    }
+  ],
+  "configuration_version": "1"
+}
